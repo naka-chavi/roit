@@ -2,7 +2,7 @@
 
 NN indentificador de numeros
 
-Esse repositório contém o arquivo .ipynb para criar, treinar, hospedar e armazenar uma NN indetificadora de números. Para utilizar acesse [Notebook hospedado no google collab](https://colab.research.google.com/drive/12H0Hl1Bk5W57QxNSi5tC7Bq7XKQwYao4?usp=sharing)
+Esse repositório contém o arquivo .ipynb para criar, treinar, hospedar e armazenar uma NN indetificadora de números. Para utilizar acesse [Notebook hospedado no google collab](https://colab.research.google.com/drive/1CGzGFpt0hHKq5Nd4WNnAMU2Savf-LOV3?usp=sharing)
 
 Notas:
  * O código não foi testado para rodar localmente e só é garantido de funcinar via o notebook hospedado.
